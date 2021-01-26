@@ -9,3 +9,6 @@
 2. Создайте бота  в телеграмм-боте `@BotFather`, копируйте токен в 13 строку `bot = telebot.TeleBot('ВАШ ТОКЕН');`
  
 3. `python bot1.py`
+
+
+[Заметка об архитектуре бота](https://github.com/EvgeniaKomleva/StyleTransferBot/blob/main/NeuralStyleTransfer.pdf)
