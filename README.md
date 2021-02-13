@@ -10,5 +10,6 @@
  
 3. `python bot1.py`
 
+![title](style/abst.jpg)
 
 [Заметка об архитектуре бота](https://github.com/EvgeniaKomleva/StyleTransferBot/blob/main/NeuralStyleTransfer.pdf)
